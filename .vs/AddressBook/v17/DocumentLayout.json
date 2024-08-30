@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jculver\\cppProjects\\AddressBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2341DE-7390-4C28-8DEF-74341B2341B0}|AddressBook.vcxproj|C:\\Users\\jculver\\cppProjects\\AddressBook\\AddressBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A2341DE-7390-4C28-8DEF-74341B2341B0}|AddressBook.vcxproj|solutionrelative:AddressBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2341DE-7390-4C28-8DEF-74341B2341B0}|AddressBook.vcxproj|C:\\Users\\jculver\\cppProjects\\AddressBook\\AddressBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A2341DE-7390-4C28-8DEF-74341B2341B0}|AddressBook.vcxproj|solutionrelative:AddressBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2341DE-7390-4C28-8DEF-74341B2341B0}|AddressBook.vcxproj|C:\\Users\\jculver\\cppProjects\\AddressBook\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A2341DE-7390-4C28-8DEF-74341B2341B0}|AddressBook.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2341DE-7390-4C28-8DEF-74341B2341B0}|AddressBook.vcxproj|C:\\Users\\jculver\\cppProjects\\AddressBook\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A2341DE-7390-4C28-8DEF-74341B2341B0}|AddressBook.vcxproj|solutionrelative:Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2341DE-7390-4C28-8DEF-74341B2341B0}|AddressBook.vcxproj|C:\\Users\\jculver\\cppProjects\\AddressBook\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A2341DE-7390-4C28-8DEF-74341B2341B0}|AddressBook.vcxproj|solutionrelative:Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\Users\\jculver\\cppProjects\\AddressBook\\Person.cpp",
+              "RelativeDocumentMoniker": "Person.cpp",
+              "ToolTip": "C:\\Users\\jculver\\cppProjects\\AddressBook\\Person.cpp",
+              "RelativeToolTip": "Person.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T12:13:28.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressBook.cpp",
+              "DocumentMoniker": "C:\\Users\\jculver\\cppProjects\\AddressBook\\AddressBook.cpp",
+              "RelativeDocumentMoniker": "AddressBook.cpp",
+              "ToolTip": "C:\\Users\\jculver\\cppProjects\\AddressBook\\AddressBook.cpp",
+              "RelativeToolTip": "AddressBook.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T14:48:39.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddressBook.h",
+              "DocumentMoniker": "C:\\Users\\jculver\\cppProjects\\AddressBook\\AddressBook.h",
+              "RelativeDocumentMoniker": "AddressBook.h",
+              "ToolTip": "C:\\Users\\jculver\\cppProjects\\AddressBook\\AddressBook.h",
+              "RelativeToolTip": "AddressBook.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-07T12:13:22.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\Users\\jculver\\cppProjects\\AddressBook\\Person.h",
+              "RelativeDocumentMoniker": "Person.h",
+              "ToolTip": "C:\\Users\\jculver\\cppProjects\\AddressBook\\Person.h",
+              "RelativeToolTip": "Person.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-07T12:12:58.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\jculver\\cppProjects\\AddressBook\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\jculver\\cppProjects\\AddressBook\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T12:10:40.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
